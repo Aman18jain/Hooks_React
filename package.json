@@ -1,0 +1,22 @@
+{
+  "name": "Hooks_React",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "transform": "babel src -d trans",
+    "bundle":"webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
